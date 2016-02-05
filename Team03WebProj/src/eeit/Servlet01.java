@@ -31,7 +31,7 @@ public class Servlet01 extends HttpServlet {
 		System.out.println("dasdasdasdas");
 		System.out.println("Hello123");
 		System.out.println("dasdasdasdas");
-		System.out.println("Hello");
+		System.out.println("Hell123o");
 		resp.sendRedirect(location);
 
 	}
