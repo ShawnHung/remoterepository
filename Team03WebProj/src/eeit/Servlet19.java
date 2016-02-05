@@ -16,8 +16,6 @@ public class Servlet19 extends HttpServlet {
 			resp.setContentType("text/html; charset=UTF-8");
 			PrintWriter out = resp.getWriter();
 			out.println("<h1>EEIT8319</h1>");	
-			
-			System.out.println("EEIT83-GitHub");
 	}	
 
 
