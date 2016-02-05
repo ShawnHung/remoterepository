@@ -65,11 +65,11 @@
 	
 
 	<servlet>
-		<servlet-name>xx</servlet-name>
+		<servlet-name>tt</servlet-name>
 		<servlet-class>eeit.Servlet21</servlet-class>
 	</servlet>
 	<servlet-mapping>
-		<servlet-name>xx</servlet-name>
+		<servlet-name>tt</servlet-name>
 		<url-pattern>/YYY</url-pattern>
 	</servlet-mapping>
 
