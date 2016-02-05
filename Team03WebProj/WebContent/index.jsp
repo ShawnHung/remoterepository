@@ -9,7 +9,7 @@
 <body>
 
 <a href="/Team03WebProj/Servlet01.do">Servlet01</a>
-<a href="/Team03WebProj">Servlet</a>
+<a href="/Team03WebProj/Servlet24.do">Servlet24</a>
 <a href="/Team03WebProj">Servlet</a>
 <a href="/Team03WebProj">Servlet</a>
 <a href="/Team03WebProj">Servlet</a>

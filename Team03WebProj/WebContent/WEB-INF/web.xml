@@ -12,12 +12,11 @@
   
   <servlet>
   	<servlet-name>servlet24</servlet-name>
-  	<servlet-class>/eeit/Servlet24.java</servlet-class>
+  	<servlet-class>eeit.Servlet24</servlet-class>
   </servlet>  
-  
   <servlet-mapping>
   	<servlet-name>servlet24</servlet-name>
-  	<url-pattern>/eeit/Servlet24.java</url-pattern>
+  	<url-pattern>/Servlet24.do</url-pattern>
   </servlet-mapping>
   
   <resource-ref>
