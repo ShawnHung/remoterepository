@@ -1,14 +1,6 @@
-<<<<<<< HEAD
-/bin/
-/build/
-/.settings/
-/.classpath
-/.project
-=======
-/build/
-/.settings/
-/.classpath
-/.project
-/bin/
 
->>>>>>> branch 'master' of https://github.com/ShawnHung/remoterepository.git
+/build/
+/.settings/
+/.classpath
+/.project
+/bin/
