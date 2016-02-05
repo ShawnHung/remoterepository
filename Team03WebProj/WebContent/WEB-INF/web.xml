@@ -21,4 +21,14 @@
   	<res-sharing-scope>Shareable</res-sharing-scope>
   </resource-ref>
   
+  
+ <servlet> 
+	<servlet-name>xx</servlet-name>
+	<servlet-class>eeit.Servlet15</servlet-class>
+ </servlet>
+ <servlet-mapping>
+ 	<servlet-name>xx</servlet-name>
+ 	<url-pattern>/ooo</url-pattern> 	
+ </servlet-mapping>
+ 
 </web-app>

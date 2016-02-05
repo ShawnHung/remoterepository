@@ -8,12 +8,13 @@
 </head>
 <body>
 
-<a href="/Team03WebProj/Servlet01.do">Servlet01</a><br>
-<a href="/Team03WebProj">Servlet</a><br>
-<a href="/Team03WebProj">Servlet</a><br>
-<a href="/Team03WebProj">Servlet</a><br>
-<a href="/Team03WebProj">Servlet</a><br>
-<a href="/Team03WebProj">Servlet</a><br>
+
+<a href="/Team03WebProj/Servlet01.do">Servlet01</a>
+<a href="/Team03WebProj">Servlet</a>
+<a href="/Team03WebProj">Servlet</a>
+<a href="/Team03WebProj">Servlet</a>
+<a href="/Team03WebProj">Servlet</a>
+<a href="/Team03WebProj/ooo">Servlet15</a>
 
 </body>
 </html>
