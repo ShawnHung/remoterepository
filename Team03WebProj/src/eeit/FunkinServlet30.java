@@ -10,7 +10,10 @@ import javax.servlet.http.HttpServletResponse;
 public class FunkinServlet30 extends HttpServlet {
 
 	protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
-		System.out.println("Servlet01");
+		System.out.println("Servlet30");
+		
+		String location="/Team03WebProj/index.jsp";
+		resp.sendRedirect(location);
 	}
 
 	@Override
