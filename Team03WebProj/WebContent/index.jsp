@@ -7,14 +7,12 @@
 <title>Insert title here</title>
 </head>
 <body>
-
 <h3>第三組</h3>
 
 <a href="/Team03WebProj/Servlet01.do">Servlet01</a><br>
+<a href="/Team03WebProj/eeit/Servlet19.do">Servlet19</a><br>
 <a href="/Team03WebProj/Servlet24.do">Servlet24</a><br>
-<a href="/Team03WebProj">Servlet</a><br>
-<a href="/Team03WebProj">Servlet</a><br>
-<a href="/Team03WebProj/FuckinServlet30.do">Servlet30</a><br>
+<a href="/Team03WebProj/FuckinServlet30.do">Servlet30</a>
 <a href="/Team03WebProj/ooo">Servlet15</a>
 
 
