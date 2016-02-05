@@ -17,7 +17,7 @@ public class Servlet01 extends HttpServlet {
 		String location="/Team03WebProj/index.jsp";
 		resp.sendRedirect(location);
 		
-		System.out.println("hahaha");
+		System.out.println("hahahaha");
 		
 	}
 
