@@ -10,6 +10,15 @@
     <welcome-file>default.jsp</welcome-file>
   </welcome-file-list>
   
+  <servlet>
+  <servlet-name>ServletEEIT8319</servlet-name>
+  <servlet-class>/eeit/ServletEEIT8319.java</servlet-class>
+  </servlet>
+  <servlet-mapping>
+  <servlet-name>ServletEEIT8319</servlet-name>
+  <url-pattern></url-pattern>
+  </servlet-mapping>
+  
   <resource-ref>
   	<res-ref-name>jdbc/GoEshopDB</res-ref-name>
 	<res-type>javax.sql.DataSource</res-type>
