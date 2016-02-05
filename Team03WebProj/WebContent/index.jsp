@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h3>第三組</h3>
+<h3>超強第三組</h3>
 
 
 <a href="/Team03WebProj/Servlet01.do">Servlet01</a><br>
