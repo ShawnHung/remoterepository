@@ -20,7 +20,6 @@
   	<res-auth>Container</res-auth>
   	<res-sharing-scope>Shareable</res-sharing-scope>
   </resource-ref>
-  
   <servlet>
   	<servlet-name>aaa</servlet-name>
   	<servlet-class>eeit.FunkinServlet30</servlet-class>
@@ -28,6 +27,14 @@
   <servlet-mapping>
   	<servlet-name>aaa</servlet-name>
   	<url-pattern>/FuckinServlet30.do</url-pattern>
-  </servlet-mapping>
-  
+  </servlet-mapping> 
+ <servlet> 
+	<servlet-name>xx</servlet-name>
+	<servlet-class>eeit.Servlet15</servlet-class>
+ </servlet>
+ <servlet-mapping>
+ 	<servlet-name>xx</servlet-name>
+ 	<url-pattern>/ooo</url-pattern> 	
+ </servlet-mapping>
+
 </web-app>
