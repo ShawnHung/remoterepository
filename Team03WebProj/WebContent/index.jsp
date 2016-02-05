@@ -13,7 +13,7 @@
 <a href="/Team03WebProj">Servlet</a>
 <a href="/Team03WebProj">Servlet</a>
 <a href="/Team03WebProj">Servlet</a>
-<a href="/Team03WebProj">Servlet</a>
+<a href="/Team03WebProj/ooo">Servlet</a>
 
 </body>
 </html>
