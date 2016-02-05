@@ -41,9 +41,13 @@
 		<servlet-class>eeit.FuckinServlet30</servlet-class>
 	</servlet>
 	<servlet-mapping>
-	<servlet-name>aaa</servlet-name>
-	<url-pattern>/FuckinServlet30.do</url-pattern>
+		<servlet-name>aaa</servlet-name>
+		<url-pattern>/FuckinServlet30.do</url-pattern>
 	</servlet-mapping>
+	
+	
+	
+
  <resource-ref>
   	<res-ref-name>jdbc/GoEshopDB</res-ref-name>
 	<res-type>javax.sql.DataSource</res-type>
