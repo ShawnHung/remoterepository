@@ -13,7 +13,8 @@ public class Servlet21 extends HttpServlet {
 	protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
 
 		req.setCharacterEncoding("UTF-8");
-		String action = req.getParameter("action");
+		System.out.println("test21");
+	
 	}
 
 
