@@ -19,9 +19,15 @@ public class Servlet01 extends HttpServlet {
 
 		resp.sendRedirect(location);
 		System.out.println("13212123123");
-
 		System.out.println("hahahaha");
-		
+		System.out.println("13212123123");
+		System.out.println("hahahaha");
+		System.out.println("13212123123");
+		System.out.println("hahahaha");
+		System.out.println("13212123123");
+		System.out.println("hahahaha");
+		System.out.println("13212123123");
+		System.out.println("hahahaha");
 
 	}
 
