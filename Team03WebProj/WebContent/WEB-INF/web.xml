@@ -61,6 +61,17 @@
 		<servlet-name>xx</servlet-name>
 		<url-pattern>/ooo</url-pattern>
 	</servlet-mapping>
+	
+	
+
+	<servlet>
+		<servlet-name>xx</servlet-name>
+		<servlet-class>eeit.Servlet21</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>xx</servlet-name>
+		<url-pattern>/YYY</url-pattern>
+	</servlet-mapping>
 
 </web-app>
 
