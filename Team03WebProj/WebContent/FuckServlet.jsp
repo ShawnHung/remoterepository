@@ -1,5 +1,6 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"
     pageEncoding="UTF-8"%>
+<%@taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html>
 <head>
@@ -7,16 +8,8 @@
 <title>Insert title here</title>
 </head>
 <body>
-
-
-<h3>第三組</h3>
-
-<a href="/Team03WebProj/Servlet01.do">Servlet01</a><br>
-<a href="/Team03WebProj">Servlet</a><br>
-<a href="/Team03WebProj">Servlet</a><br>
-<a href="/Team03WebProj/ooo">Servlet</a><br>
-<a href="/Team03WebProj/FuckinServlet30.do">Servlet30</a>
-<a href="/Team03WebProj/ooo">Servlet15</a>
-
+	<form action="<c:url var="/eeit/name"/>" method="post">
+		Your name:<input name="name" type="text">
+	</form>
 </body>
 </html>
