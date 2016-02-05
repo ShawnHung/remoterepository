@@ -16,8 +16,9 @@ public class Servlet01 extends HttpServlet {
 		System.out.println("Servlet01");
 		
 		String location="/Team03WebProj/index.jsp";
-		resp.sendRedirect(location);
 		
+		resp.sendRedirect(location);
+		System.out.println("13212123123");
 	}
 
 	@Override
